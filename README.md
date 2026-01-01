@@ -1,1 +1,1 @@
-## A mini project to experiment with EDA
+A mini project to experiment with EDA
